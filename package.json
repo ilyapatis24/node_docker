@@ -1,0 +1,17 @@
+{
+  "name": "js_node_middleware",
+  "version": "1.0.0",
+  "description": "js_node_middleware",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^1.4.5-lts.2",
+    "uuid": "^11.1.0"
+  }
+}
